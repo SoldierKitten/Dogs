@@ -2,14 +2,12 @@
 :)
 <!DOCTYPE html>
 <html>
-<head>
-<title>Page Title</title>
-</head>
-<body>
 
-<h1>This is a Heading</h1>
-<h2>This is a second heading</h2>
-<p>This is a paragraph.</p>
+<body style ="background:yellow">
+
+<h1 style ="color:blue">This is practice</h1>
+<h2>How to make a website</h2>
+<p>It is in HTML</p>
 
 </body>
 </html>
