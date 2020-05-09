@@ -4,27 +4,7 @@
     <title>
       Dogs
     </title>
-    <style>
-      h1{color:#15266D;}
-      h1:hover{color:#788AD8;}
-      h3{color:#430093;}
-      ul{color:#008F93;}
-      a:hover{color:#96FCFF;}
-      #blue:hover{color:#96FCFF;}
-      #red:hover{color:#FF9696;}
-      #orange:hover{color:#FFD996;}
-      #yellow:hover{color:#FFFD96;}
-      #green:hover{color:#CEFF96;}
-      #darkblue:hover{color:#96B4FF;}
-      #purple:hover{color:#CF96FF;}
-      #magenta:hover{color:#FF96FF;}
-      #black:hover{color:#000000;}
-      body{background:aliceblue;}
-      h3:hover{color:blue;}
-      ol{color:#003873;}
-      #aqua:hover{color:aquamarine;}
-      #dog:hover{opacity:0.5;}
-    </style>
+    <link href="style.css" rel="style">
   </head>
   <body>
     <h1>
