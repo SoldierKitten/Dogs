@@ -1,4 +1,3 @@
-# Naomi
 <!DOCTYPE html>
 <html>
   <head>
