@@ -5,6 +5,31 @@
       Dog Foods
     </title>
     <style>
+      #bar li{float:left;}
+			ul{
+				list-style-type:none;
+				margin:0;
+				padding:0;
+				overflow:hidden;
+				background:lightblue;
+			}
+			}.active {
+				background color:aqua;
+			}
+			li a:hover.not(.active) {
+				background:white;
+			}
+			li a{
+				display:block;
+				color:gray;
+				text-align:center;
+				padding:14px 16px;
+				text-decoration:none;
+			}
+			.center{
+				text-align:center;
+				list-style-position: inside;
+			}
     h1{color:#15266D;}
     h1:hover{color:#788AD8;}
     h3{color:#430093;}
